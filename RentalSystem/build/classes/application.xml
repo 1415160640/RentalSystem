@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans>
+   <bean id="UserDao" class="cn.xiaowo.rental.dao.Impl.UserDaoImp"/>
+   <bean id="CategoryDao" class="cn.xiaowo.rental.dao.Impl.CategoryDaoImp"/>
+   <bean id="ProductDao" class="cn.xiaowo.rental.dao.Impl.ProductDaoImp"/>
+   <bean id="OrderDao" class="cn.xiaowo.rental.dao.Impl.OrderDaoImp"/>
+   <bean id="LessorDao" class="cn.xiaowo.rental.dao.Impl.LessorDaoImpl"/>
+  
+</beans>
